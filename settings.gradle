@@ -1,0 +1,3 @@
+rootProject.name = 'Nfc冠军版'
+
+include 'app'
